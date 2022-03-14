@@ -1,0 +1,42 @@
+.MuiFormHelperText-root {
+    color: red !important;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    font-size: 0.75rem;
+    line-height: 1.66;
+    letter-spacing: 0.03333em;
+    text-align: left;
+    margin-top: 3px !important;
+    margin-right: 14px;
+    margin-bottom: 0;
+    margin-left: 14px !important;
+}
+
+.job .MuiCardContent-root {
+    direction: ltr !important;
+    margin-bottom: 0px !important;
+}
+.job{
+    margin-top: 13% !important;
+}
+.job .MuiTypography-root {
+    color: rgba(0, 0, 0, 0.6) !important;
+    margin-bottom: 30px !important;
+    margin-top: 38px !important;
+}
+
+.job .MuiAutocomplete-root {
+    min-width: 243 !important;
+}
+
+.job .MuiButton-root {
+    margin: auto !important;
+}
+
+.job {
+    margin-left: 5%;
+}
+
+.col-6{
+width: 430px !important;
+}

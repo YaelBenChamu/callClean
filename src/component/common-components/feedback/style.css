@@ -1,0 +1,60 @@
+.ql-toolbar.ql-snow {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    margin: 12px;
+}
+
+.ql-toolbar.ql-snow+.ql-container.ql-snow {
+    border: none;
+    border-bottom-color: white;
+    margin: 12px;
+    height: 380px;
+}
+
+.ql-editor {
+    text-align: right;
+}
+.ql-container{
+    font-family: system-ui !important; 
+}
+.feedback .MuiCard-root, .Feedback2 .MuiCard-root {
+    border-radius: 8px !important;
+}
+
+.feedback .div1, .Feedback2 .div1 {
+    text-align: right !important;
+    background-color: rgb(90, 82, 82) !important;
+    color: white !important;
+    font-weight: 500 !important;
+    padding-bottom: 10px !important;
+    padding-top: 10px !important;
+    height: auto !important;
+    line-height: 20px !important;
+    padding-right: 16px !important;
+    padding-left: 0 !important;
+    background-position: right center !important;
+    font-size: .875rem !important;
+    letter-spacing: .2px !important;
+    white-space: nowrap !important;
+}
+.feedback , .Feedback2{
+    margin-top: 6%;
+}
+.feedback .MuiReactQuill-root, .Feedback2 .MuiReactQuill-root {
+    width: 560px !important;
+}
+
+.feedback .div2, .Feedback2 .div2 {
+    text-align: right;
+}
+
+.feedback .MuiButton-root, .Feedback2 .MuiButton-root {
+    direction: ltr !important;
+    margin-right: 0px !important;
+    margin: auto 12px 12px 5px !important;
+}
+
+.feedback .MuiDeleteIcon-root, .Feedback2 .MuiDeleteIcon-root {
+    text-align: left !important;
+    color: #1565c0 !important;
+}

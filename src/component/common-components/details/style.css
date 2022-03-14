@@ -1,0 +1,143 @@
+.detailsForm .MuiFormControl-root {
+    direction: ltr !important;
+}
+
+.detailsForm .MuiTypography-root {
+    color: rgba(0, 0, 0, 0.6) !important;
+    margin-bottom: 30px !important;
+    margin-top: 38px !important;
+    font-size: x-large !important;
+    font-family: system-ui !important;
+}
+
+.detailsForm .MuiInput-root {
+    font-family: system-ui !important;
+}
+/* .detailsForm{
+    height: 50% !important;
+    margin: 9% auto auto auto !important;
+} */
+.detailsForm .MuiFormControl-root {
+    width: 200px !important;
+    margin-bottom: 30px !important;
+}
+
+.detailsForm .MuiCard-root {
+    width: 700px !important;
+    margin-top: 9.5%;
+}
+
+.detailsForm .MuiButton-root {
+    margin: auto !important;
+}
+
+.detailsForm .MuiInputLabel-root {
+    font-family: system-ui !important;
+}
+
+.detailsForm .MuiButton-root p {
+    margin-bottom: auto;
+}
+
+.detailsForm .googleMapDiv1 {
+    width: 200px;
+    display: -webkit-inline-box !important;
+    display: -webkit-inline-flex !important;
+    display: -ms-inline-flexbox !important;
+    display: inline-flex !important;
+    -webkit-flex-direction: column !important;
+    -ms-flex-direction: column !important;
+    flex-direction: column !important;
+    position: relative !important;
+    min-width: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: 0 !important;
+    vertical-align: top !important;
+    font-family: system-ui !important;
+}
+
+.detailsForm .googleMapDiv {
+    z-index: 10 !important;
+    display: inline-block !important;
+    margin-top: 16px !important;
+    font-family: Roboto, Helvetica, Arial sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 1rem !important;
+    line-height: 1.4375em !important;
+    letter-spacing: 0.00938em !important;
+    color: rgba(0, 0, 0, 0.87) !important;
+    box-sizing: border-box !important;
+    position: relative !important;
+    cursor: text !important;
+    display: -webkit-inline-box !important;
+    display: -webkit-inline-flex !important;
+    display: -ms-inline-flexbox !important;
+    display: inline-flex !important;
+    -webkit-align-items: center !important;
+    -webkit-box-align: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    position: relative !important;
+}
+
+input#googleMapInput:focus-visible{
+    outline: none !important;
+}
+
+input#googleMapInput {
+    font-family: system-ui !important;
+    border: none !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.42) !important;
+    direction: ltr !important;
+    width: 100% !important;
+    letter-spacing: inherit !important;
+    color: currentColor !important;
+    padding: 4px 0 5px !important;
+    box-sizing: content-box !important;
+    background: none !important;
+    height: 1.4375em !important;
+    margin: 0 !important;
+    -webkit-tap-highlight-color: transparent !important;
+    display: block !important;
+    min-width: 0 !important;
+    width: 100% !important;
+    -webkit-animation-name: mui-auto-fill-cancel !important;
+    animation-name: mui-auto-fill-cancel !important;
+    -webkit-animation-duration: 10ms !important;
+    animation-duration: 10ms !important;
+}
+
+.detailsForm input#googleMapInput:hover {
+    border-bottom: 2px solid black !important;
+}
+
+.detailsForm .googleMapLabel {
+    color: rgba(0, 0, 0, 0.6) !important;
+    font-family: system-ui !important;
+    font-weight: 400 !important;
+    font-size: 1rem !important;
+    line-height: 1.4375em !important;
+    letter-spacing: 0.00938em !important;
+    padding: 0 !important;
+    position: relative !important;
+    display: block !important;
+    transform-origin: top left !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    max-width: 100% !important;
+    position: absolute !important;
+    left: 0 !important;
+    top: 0 !important;
+    -webkit-transform: translate(0, 20px) scale(1) !important;
+    -moz-transform: translate(0, 20px) scale(1) !important;
+    -ms-transform: translate(0, 20px) scale(1) !important;
+    transform: translate(0, 20px) scale(1) !important;
+    -webkit-transition: color 200ms cubic-bezier(0.0, 0, 0.2, 1) 0ms !important;
+    -webkit-transform: 200ms cubic-bezier(0.0, 0, 0.2, 1) 0ms !important;
+    max-width: 200ms cubic-bezier(0.0, 0, 0.2, 1) 0ms !important;
+    transition: color 200ms cubic-bezier(0.0, 0, 0.2, 1) 0ms !important;
+    transform: 200ms cubic-bezier(0.0, 0, 0.2, 1) 0ms !important;
+    max-width: 200ms cubic-bezier(0.0, 0, 0.2, 1) 0ms !important;
+}

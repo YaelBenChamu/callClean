@@ -1,0 +1,54 @@
+.login .MuiAvatar-root {
+    margin: 8px !important;
+    background-color: #1976d2 !important;
+}
+
+.login .MuiTypography-root {
+    color: rgba(0, 0, 0, 0.6) !important;
+}
+
+.login .box2 .MuiBox-root {
+    margin-top: 8px !important;
+}
+
+.login .MuiTextField-root {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif !important;
+}
+.login input{
+    font-family:system-ui !important;
+}
+
+.login .helper {
+    color: red;
+}
+.login .MuiLink-root{
+    color:#1976d2 !important;
+}
+.login .button1 .MuiButton-root {
+    margin-top: 24px !important;
+    margin-bottom: 16px !important;
+}
+
+.login .MuiRadioGroup-root {
+    direction: rtl !important;
+    margin-right: -11px !important;
+    color: rgba(0, 0, 0, 0.6) !important;
+}
+
+.login .button2 .MuiButton-root {
+    margin: auto !important;
+    direction: ltr !important;
+    margin-left: 0px !important;
+}
+
+.login .helper2 .MuiFormHelperText-root {
+    text-align: right !important;
+}
+
+.login .copy .MuiTypography-root {
+    margin-top: 64px;
+    margin-bottom: 32px;
+}
+.login{
+    margin-top: 16%;
+}

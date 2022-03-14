@@ -1,0 +1,27 @@
+.about .MuiCard-root {
+    direction: ltr !important;
+    width: 80% !important;
+    text-align: center !important;
+    margin: auto auto auto auto !important;
+    margin-top: 1% !important;
+}
+
+.about .MuiList-root {
+    max-width: 1000 !important;
+}
+
+.about .MuiListItem-root {
+    text-align: center;
+}
+
+.about .MuiListItemAvatar-root {
+    margin-right: 8px !important;
+    justify-content: center !important;
+    align-items: center !important;
+    display: flex !important;
+    min-width: 40px !important;
+    min-height: 40px !important;
+    border-radius: 50% !important;
+    color: #fff !important;
+    background-color: #bdbdbd !important;
+}
